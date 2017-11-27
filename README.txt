@@ -24,8 +24,8 @@ Your description start form next line and do not delete lines upto this point.
   
 <역할 분담>
   - readme : 윤찬솔
-  - main : 
-  - header : 
+  - main : 전희수
+  - header : 허보성
   - library : 김찬현, 박준형 
   
 - - -
